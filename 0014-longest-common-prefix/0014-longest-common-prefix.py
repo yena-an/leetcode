@@ -4,19 +4,12 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        if len(strs) == 0:
+        if not strs:
             return ""
 
-        result = ""
-        first = strs[0]
-
-        for i in range(len(first)):
-            curr = first[i]
-
-            for j in strs:
-                if i > len(j) - 1 or curr != j[i]:
-                    return result
-            
-            result += curr
-
-        return result 
+        prefix = strs[0]
+        for i in strs[1:]:
+            while not i.startswith(prefix):
+                prefix = prefix [:-1]
+        
+        return prefix
