@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yena-an/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/yena-an/leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yena-an/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/yena-an/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yena-an/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
