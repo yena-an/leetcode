@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/yena-an/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/yena-an/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yena-an/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/yena-an/leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/yena-an/leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/yena-an/leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
