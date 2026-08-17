@@ -11,6 +11,7 @@
 | [0067-add-binary](https://github.com/yena-an/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/yena-an/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yena-an/leetcode/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/yena-an/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yena-an/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yena-an/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/yena-an/leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/yena-an/leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
